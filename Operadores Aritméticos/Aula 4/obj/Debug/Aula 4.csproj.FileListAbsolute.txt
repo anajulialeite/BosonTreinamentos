@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\bin\Debug\Aula 4.exe.config
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\obj\Debug\Aula 4.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\obj\Debug\Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\obj\Debug\Aula 4.exe
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores Aritméticos\Aula 4\obj\Debug\Aula 4.pdb
