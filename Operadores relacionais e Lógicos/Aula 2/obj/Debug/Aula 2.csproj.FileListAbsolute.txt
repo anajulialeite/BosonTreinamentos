@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\bin\Debug\Aula 2.exe.config
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\bin\Debug\Aula 2.exe
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\bin\Debug\Aula 2.pdb
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\obj\Debug\Aula 2.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\obj\Debug\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\obj\Debug\Aula 2.exe
+C:\Users\Master\source\repos\Bóson Treinamentos\Operadores relacionais e Lógicos\Aula 2\obj\Debug\Aula 2.pdb
