@@ -5,3 +5,7 @@
 Repositório com os Exercícios em C# do canal Bóson Treinamentos
 
 link do curso: https://www.youtube.com/watch?v=r2kEkCGrxZs&t=1s
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
