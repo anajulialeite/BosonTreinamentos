@@ -6,7 +6,7 @@ Repositório com os Exercícios em C# do canal Bóson Treinamentos
 
 ## Links úteis
 
-link do curso: https://www.youtube.com/watch?v=r2kEkCGrxZs&t=1s
+link do curso <a href= "https://dart.dev/guides">Programação em C#</a>
 
 ## License
 
