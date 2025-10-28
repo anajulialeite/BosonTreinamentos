@@ -3,7 +3,7 @@
 <br>
 Repositório com os exercícios em <strong>C#</strong> do canal <strong>Bóson Treinamentos</strong>.
 
-## Links úteis
+## Link útil
 
 link do curso <a href= "https://dart.dev/guides">Programação em C#</a>
 
